@@ -25,7 +25,7 @@
  > ℹ️ **NOTE:** Repositorio desenvolvido com instruções técnicas de Felipe Aguiar durante o curso na [plataforma DIO](https://web.dio.me/track/decf433b-9bc9-4ddc-bfd4-639ed8da82d9).
 
 Esse Projeto tem o objetivo de gerar um video com layout rico e conteúdo agradável, focando em promover a autoridade técnica do profissional, utilizando IA.
-<a href="https://www.linkedin.com/feed/update/urn:li:ugcPost:7118340703285338112/" title="View linkedEdin"> 📔Click aqui para ver o video do podcast</a>
+<a href="https://www.linkedin.com/posts/rosanediasribeiro_dio-ai-podcast-activity-7118340927122747394-HB7g?utm_source=share&utm_medium=member_desktop" title="View linkedEdin"> 📔Click aqui para ver o video do podcast</a>
 
 
 ## ⚛️ Useful tools
