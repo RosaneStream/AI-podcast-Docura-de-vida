@@ -93,7 +93,7 @@ O podcast vai falar sobre dicas de alimentação saudável e novidades do mercad
     
 ## 🧭 Final instructions
 
-Para seguir este modelo, você poderá utilizar os prompts mencionados acima e recursos apontados neste documento, que foram utilizados para produzir este podcast, bem como para gerar as imagens, áudio e vídeo inseridos no projeto.
+Para seguir este modelo, você poderá utilizar os prompts mencionados acima e recursos apontados neste documento, que foram utilizados para produzir este podcast.
 
 ## 👩🏻‍💻 Expert Systems Analyst
 
