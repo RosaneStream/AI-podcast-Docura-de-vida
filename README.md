@@ -13,7 +13,7 @@
 -------
 <p align="center">
 <a href="https://www.instagram.com/reel/CyT5bpzxFof/?igshid=MzRlODBiNWFlZA=="><img
-    src="assets\preview.png"
+    src="assets\cover.png"
     width="400"  
   />
   </a>
