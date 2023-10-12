@@ -22,21 +22,19 @@
     
 # 💻Project AI-podcast generated
 
- > ℹ️ **NOTE:** Repository developed with technical instructions from Felipe Aguiar during the course on the [DIO platform](https://web.dio.me/track/decf433b-9bc9-4ddc-bfd4-639ed8da82d9).
+ > ℹ️ **NOTE:** Repositorio desenvolvido com instruções técnicas de Felipe Aguiar durante o curso na [plataforma DIO](https://web.dio.me/track/decf433b-9bc9-4ddc-bfd4-639ed8da82d9).
 
-Project with the objective of generating a video with a rich layout, pleasant to listen and whatch, focused on promoting its technical authority, using AI.
-
-<a href="https://www.linkedin.com/posts/rosanediasribeiro" title="View linkedEdin"> 📔Click here to see the video</a>
+Esse Projeto tem o objetivo de gerar um video com layout rico e conteúdo agradável, focando em promover a autoridade técnica do profissional, utilizando IA.
+<a href="https://www.linkedin.com/feed/update/urn:li:ugcPost:7118340703285338112/" title="View linkedEdin"> 📔Click aqui para ver o video do podcast</a>
 
 
 ## ⚛️ Useful tools
 
-- [ChatGPT](https://chat.openai.com/) - headline and content
-- [Lexica.art](https://lexica.art/) - images
-- [Canva](https://canva.com/) - images manipulation
-- [Capcut](https://capcut.com/) - video generation
-- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint) - banner and layouts
-- [Word](https://www.microsoft.com/en/microsoft-365/word) - writing and reviewing
+- [ChatGPT](https://chat.openai.com/) - Titulo e conteúdo
+- [Canva](https://canva.com/) - manipulação de imagens e video
+- [Capcut](https://capcut.com/) - geração de vídeo
+- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint) - banner e imagem
+- [Word](https://www.microsoft.com/en/microsoft-365/word) - escrita e revisão do texto
 
 
 ## ✍️ Prompts
@@ -44,46 +42,60 @@ Project with the objective of generating a video with a rich layout, pleasant to
 ### ChatGPT：
 
 - Action: Title
-- Prompt: Give 5 possible titles for an ebook, epic and short, where the main subject is about database,
-  the subtitle is about similarities and differences between SQL and NoSQL, which theme is related to the Avengers Comic.                         
+- Você é uma jovem roteirista de podcast, que tem diabetes.
+Crie 5 sugestões de nomes criativos para um podcast de saúde sobre diabetes, e que traga uma ideia de superação no nome.
+O podcast vai falar sobre dicas de alimentação saudável e novidades do mercado para melhorar a qualidade de vida das pessoas que enfrentam essa situação.
+{Dos}
+•	O nome deve ser enxuto, um nome e um subtítulo
+•	O nome deve trazer uma sensação positiva
+•	Se for usar termos em outra língua, diferente do português, use somente cognatos
+{Donts}
+•	Não quero que utilize nenhuma das palavras nessa lista: tristeza, depressão, desespero, medo 
+•	Não utilize a palavra Insulina no nome nem qualquer variação dela
 
 - Action: Contents
-- Prompt: Behave as if you were a senior developer by explaining in an easy way whereas the target audience is people with no technical knowledge, showing some examples when possible.
-  - Following the rules below, write a text for an e-book, focusing on SQL and NoSQL, their similarities and differences,
-    whose title is “Database Wars: SQL vs. NoSQL – Uniting the Data Avengers”, maintaining a theme related to the Avengers.
-    {RULES}
-    - Explain simply
-    - Keep text clean and short
-    - Bring queries examples comparing SQL and NoSQL
-    - Title topics
-    - Produce a call action for my social media;
-    - Indicate 3 main hashtags.
+- Prompt: Você é uma jovem roteirista de podcast, que tem diabetes desde os 11 anos e, atualmente está com 17. C
+  Crie um roteiro para um podcast chamado “Doçura de Vida – Superando o Diabetes de Forma Doce e Saudável".
+  Esse é o seu primeiro podcast, cuja finalidade é falar sobre dicas de alimentação saudável e novidades do mercado para melhorar a qualidade de vida
+  das pessoas que enfrentam essa situação, para um público jovem.
+  O formato do roteiro deve ser [INTRODUÇÃO] [CURIOSIDADE 1] [CURIOSIDADE 2] [FINALIZAÇÃO]
+  {RULES}
+  • no bloco [INTRODUÇÃO] substitua por uma introdução de no máximo 15 segundos com uma chamada que desperte curiosidade sobre o que será apresentado.
+  • no bloco [CURIOSIDADE 1] indicando uma fonte, substitua por uma curiosidade sobre alimentação saudável para quem tem diabetes
+  • no bloco [CURIOSIDADE 2] indicando uma fonte, fale sobre uma novidade no mercado internacional para ajudar na qualidade de vida de quem precisa tomar insulina diariamente.
+  • no bloco [FINALIZAÇÃO] substitua por uma despedida marcante e deixe uma palavra no final que cause impacto e curiosidade para ver o próximo.
+  {Dos}
+  • use termos de fácil interpretação
+  • O podcast vai ser apresentado somente por uma pessoa, chamada Liliz Doçura
+  • O podcast deve ser curto e objetivo
+  • Use sinônimos e evite palavras repetitivas
+  {Donts}
+  • Não use muitos termos médicos ou técnicos
+  • Não ultrapasse 5 minutos de duração
 
-### Lexica.art：
-The images utilized were sourced from the public collection available on the website lexica.art. The search terms employed to find these images included "SQLxNoSQL", "Avengers", and "AI".
-
-
+  - Action: Cover
+  - Prompt: Crie uma imagem com uma jovem branca, de vestido claro, com cabelos castanhos escuros longos e franja, com olhos sorridentes e cílios longos e negros.
+            Que a jovem esteja sentada numa mesa rodeada de alimentos saudáveis, como frutas e vegetais, com as cores principais vermelho, verde e amarelo.
+    
 ## 🏋️ Features
 
-- Content generated via ChatGPT
-- Images from the public collection generated via Lexica.art
-- Images manipulation on Canva
-- Word writing and reviewing
-- Power point final project
-- Human interaction with prompts, reviews and tests
-
+- Conteúdo gerado inicialmente no ChatGPT
+- Imagens e vídeos gerados no Canva
+- Manipulação de imagens no Powerpoint
+- Escrita e revisão no Word
+- Vídeo gerado no Capcut
+- Interação humana com prompts, revisões e testes
 
 ## 👀 Content
 
-- This content is the result of AI research using specific prompts developed by an experienced professional,
-  under review and formatting, image manipulation and script testing carried out by a human being.
-  
+- Este conteúdo é o resultado de pesquisas de IA usando prompts específicos desenvolvidos por um profissional experiente,
+   sob revisão e formatação, manipulação de imagens, video e audio, realizados por interação humana.
+    
 ## 🧭 Final instructions
 
-To follow this model, you might use the prompts mentioned above and features pointed out in this document, which were used to produce the e-book, as well as to generate the inserted images. Detailed instructions can be found at [DIO - ChatGPT for Devs](https://web.dio.me/track/decf433b-9bc9-4ddc-bfd4-639ed8da82d9).
+Para seguir este modelo, você poderá utilizar os prompts mencionados acima e recursos apontados neste documento, que foram utilizados para produzir este podcast, bem como para gerar as imagens, áudio e vídeo inseridos no projeto.
 
-
-## 👩🏻‍💻 Systems Analyst
+## 👩🏻‍💻 Expert Systems Analyst
 
 <p>
     <img align=left margin=10 width=80 src="assets\profile.png"/>
