@@ -73,8 +73,8 @@ O podcast vai falar sobre dicas de alimentação saudável e novidades do mercad
   • Não use muitos termos médicos ou técnicos
   • Não ultrapasse 5 minutos de duração
 
-  - Action: Cover
-  - Prompt: Crie uma imagem com uma jovem branca, de vestido claro, com cabelos castanhos escuros longos e franja, com olhos sorridentes e cílios longos e negros.
+- Action: Cover
+- Prompt: Crie uma imagem com uma jovem branca, de vestido claro, com cabelos castanhos escuros longos e franja, com olhos sorridentes e cílios longos e negros.
             Que a jovem esteja sentada numa mesa rodeada de alimentos saudáveis, como frutas e vegetais, com as cores principais vermelho, verde e amarelo.
     
 ## 🏋️ Features
